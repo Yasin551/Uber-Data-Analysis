@@ -13,7 +13,7 @@ With the power of data visualization, I've translated raw numbers into actionabl
 
 Key Highlights:
 Tool Used: Microsoft Excel
-Topics Covered: Data Analysis, Uber, Ride AnLYTICS, Insights, Analytics, Dashboard, Data Visualization, Data-Driven Decision Making.Interested in leveraging data to drive your business forward? Let's connect and explore opportunities to collaborate! 🚀
+Topics Covered: Data Analysis, Uber, Ride Analytics, Insights, Analytics, Dashboard, Data Visualization, Data-Driven Decision Making.Interested in leveraging data to drive your business forward? Let's connect and explore opportunities to collaborate! 🚀
 
 <img width="3162" height="1707" alt="uber ride analytics dashboard 1" src="https://github.com/user-attachments/assets/7a10af5f-e9a1-4b68-bbfd-7fdc8bb79d1f" />
 
